@@ -61,7 +61,7 @@ If you have Nix with flakes enabled:
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/sijanthapa171/SystemInfoMonitor.git
    cd SystemInfoMonitor
    ```
 
@@ -122,11 +122,3 @@ Used Space: 256 GB
 Free Space: 256 GB
 Usage: 50.0%
 ```
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. 
