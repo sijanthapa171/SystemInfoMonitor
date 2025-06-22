@@ -90,7 +90,7 @@ flowchart TD
 
 ## Implementation Details
 
-The SystemInfoMonitor is implemented in C++ and uses the following key components:
+The SystemInfoMonitor is implemented in `C` and uses the following key components:
 
 1. **Core Monitoring**
    - CPU usage tracking
