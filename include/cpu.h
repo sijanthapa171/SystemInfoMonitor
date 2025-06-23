@@ -12,13 +12,10 @@ typedef struct {
     char architecture[64];
 } CPUInfo;
 
-// Initialize CPU monitoring
 int init_cpu_monitoring(void);
 
-// Get current CPU information
 int get_cpu_info(CPUInfo *info);
 
-// Clean up CPU monitoring resources
 void cleanup_cpu_monitoring(void);
 
-#endif // CPU_H 
+#endif 
